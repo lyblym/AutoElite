@@ -172,23 +172,22 @@ nav .number h3:hover {
 	}
 }
 
-.home .button .discover {
+.home .button.discover { 
     background-color: transparent;
     border: 2px solid white;
     padding: 15px 60px;
     font-size: 20px;
 }
 
-.home .button .discover a{
+.home .button.discover a {
     color: #ffffff;
 }
 
-.home .button .discover:hover {
+.home .button.discover:hover {
     background-color: #ffffff;
-	color: #000000;
 }
 
-.home .button .discover a:hover {
+.home .button.discover:hover a {
     color: #000000;
 }
 
@@ -954,5 +953,6 @@ nav .number h3:hover {
 		font-size: 10px;
 	}
 }
+
 
 
