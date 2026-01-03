@@ -184,7 +184,7 @@ nav .number h3:hover {
 }
 
 .home .button .discover:hover {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 .home .button .discover a:hover {
@@ -953,3 +953,4 @@ nav .number h3:hover {
 		font-size: 10px;
 	}
 }
+
